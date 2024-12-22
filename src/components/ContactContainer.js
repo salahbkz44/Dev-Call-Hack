@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 import contactPic from "../assets/images/gdg_balloons.svg";
-import iconBg from "../assets/images/cloud.png";
 
 const PageContainer = styled.div`
   font-family: "Poppins", sans-serif;
